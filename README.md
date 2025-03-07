@@ -67,6 +67,12 @@
 
 ###
 
+
+
+### 📊 Estatísticas
+
+
+
 <h3 align="left">My Contact</h3>
 
 ###
