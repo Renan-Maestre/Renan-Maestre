@@ -89,10 +89,6 @@
 
 ###
 
-<div align="center">
-  <img src="" height="150" alt="stats graph"  />
-  <img src="" height="150" alt="languages graph"  />
-  <img src="" height="290" alt="activity-graph graph"  />
-</div>
+
 
 ###
