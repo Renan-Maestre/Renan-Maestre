@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h1 align="left">Olá ! Seja Bem Vindo (a) ao meu Github</h1>
+<h1 align="left">👨‍💻 Renan Maestre</h1>
+
+**`Desenvolvedor Web`**
 
 ###
 
@@ -24,7 +26,7 @@
 
 ###
 
-<p align="left">Linguagens </p>
+<p align="left">🤖 Linguagens </p>
 
 ###
 
@@ -58,9 +60,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  
 </div>
 
 ###
@@ -71,13 +73,11 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/h%C3%A1gata-mendes-808b73180/" target="_blank">
-    <img src="" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://w.app/g3INL9" target="_blank">
-    <img src="" height="40" alt="whatsapp logo"  />
-  </a>
+  .
   <a href="mailto:hagatamendes2017@gmail.com" target="_blank">
-    <img src="" height="40" alt="gmail logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" alt="gmail logo"  />
   </a>
 </div>
 
