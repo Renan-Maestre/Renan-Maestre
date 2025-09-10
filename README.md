@@ -69,23 +69,15 @@
 
 
 
-### 📊 Estatísticas
 
 
 
-<h3 align="left">My Contact</h3>
+
+
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/h%C3%A1gata-mendes-808b73180/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  </a>
-  .
-  <a href="mailto:hagatamendes2017@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" alt="gmail logo"  />
-  </a>
-</div>
+
 
 ###
 
