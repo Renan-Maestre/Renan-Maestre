@@ -2,7 +2,7 @@
 
 <h1 align="left">👨‍💻 Renan Maestre</h1>
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor`**
 
 ###
 
