@@ -1,86 +1,49 @@
-<br clear="both">
+<!--
+    Hey there, I'm Renan Maestre!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+-->
 
-<h1 align="left">👨‍💻 Renan Maestre</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=36BCF7FF&section=header&fontSize=-2" alt="header"/> 
 
-**`Desenvolvedor`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Fala+Dev!+Eu+sou+Renan+Maestre;Sou+desenvolvedor+J%C3%BAnior)](https://git.io/typing-svg)
 
-###
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-<h6 align="left">Meu nome é Renan Maestre tenho 18 anos e sou Desenvolvedora Front End Jr e moro em Minas Gerais.</h6>
+<!-- <div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div> -->
 
-###
 
-<h2 align="left">About me</h2>
 
-###
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=regex,github,git,postgres,js,typescript,tailwind,nodejs,react,next,nest,express,jest,html,css,docker,figma,postman,prisma,unreal,blender,)](https://skillicons.dev)
 
-<p align="left">💻 Transição para Desenvolvimento Web<br>Após 2 anos de experiência na área de Designer Gráfico, estou em transição de carreira para Desenvolvimento Web, unindo minha experiência como designer e minha paixão por tecnologia.<br><br>
-📚 Formação :<br>Técnico em Programação de Jogos Digitais <br>
-<br>📚 Formação em andamento:<br>Licenciatura em computação
-<br><br>🚀 Principais tecnologias:
-<br>HTML5  | CSS3 | JavaScript  <br><br>🌟 Entusiasta por soluções eficientes e bonitas.</p>
+<!-- ### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev) -->
 
-###
 
-<h2 align="left">My Skills</h2>
 
-###
+## About
 
-<p align="left">🤖 Linguagens </p>
+A tecnologia não é apenas minha profissão, é meu hobby e minha paixão. Comecei minha trajetória técnica no desenvolvimento de Jogos Digitais. Hoje, atuo como Desenvolvedor Fullstack, explorando todo o ecossistema da programação.
 
-###
+Sou um entusiasta do aprendizado e gosto de me aprofundar em novas linguagens e ferramentas. Minha curiosidade e esforço foram recompensados com a medalha de ouro na OBT 2024. Meu objetivo é continuar evoluindo e construindo softwares que façam a diferença.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+
+### Connect with me!
+
+<p align="left">
+  <a href="mailto:renan.maestre.contato@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/renanmaestre" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
  
-</div>
 
-###
+  <a href="https://www.instagram.com/renan.maestre" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
-<p align="left">DevOps</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-
-</div>
-
-###
-
-<p align="left">IDE</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  
-</div>
-
-###
-
-
-
-
-
-
-
-
-
-###
-
-
-
-###
-
-
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=36BCF7FF&section=footer&fontSize=-2" alt="footer"/>
