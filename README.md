@@ -19,7 +19,7 @@
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=regex,github,git,postgres,js,typescript,tailwind,nodejs,react,next,nest,express,jest,html,css,docker,figma,postman,prisma,unreal,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,postgres,js,typescript,tailwind,nodejs,react,nest,html,css,docker,figma,postman,unreal,blender,)](https://skillicons.dev)
 
 <!-- ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev) -->
